@@ -25,6 +25,14 @@
       "hwid": [
         "ANY"
       ]
+    },
+    "DP-PFXGNP": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-20",
+      "hwid": [
+        "another_device_id_here"
+      ]
     }
   }
 }
