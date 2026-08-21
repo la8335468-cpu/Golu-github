@@ -8,14 +8,6 @@
     "banned_devices": []
   },
   "keys": {
-    "DP-0DXRPI": {
-      "status": "approved",
-      "max_devices": 1,
-      "expiry_date": "2026-08-21",
-      "hwid": [
-        "fd5d99a2119750ae"
-      ]
-    },
     "DP-NWLYZD": {
       "status": "approved",
       "max_devices": 1,
